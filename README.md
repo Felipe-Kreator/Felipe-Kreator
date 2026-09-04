@@ -1,3 +1,4 @@
+[README (3).md](https://github.com/user-attachments/files/31853950/README.3.md)
 <h1 align="center">Olá, eu sou o Felipe! 👋</h1>
 
 <h3 align="center">Estudante de Ciência da Computação | Dev em formação | Curioso por Segurança da Informação</h3>
@@ -57,7 +58,7 @@ Ainda não domino a área, mas venho estudando os fundamentos:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-KreatorI&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-Kreator&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
 ---
@@ -80,4 +81,3 @@ Ainda não domino a área, mas venho estudando os fundamentos:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" />
 </p>
 
-'Atualiza README do perfil'
