@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=2E9EF7&style=flat" alt="Visitor Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Felipe-Kreator&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=2E9EF7&style=flat" alt="Visitor Badge"/>
 </p>
 
 ---
