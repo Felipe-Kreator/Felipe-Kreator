@@ -57,7 +57,7 @@ Ainda não domino a área, mas venho estudando os fundamentos:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-KreatorI&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
 ---
