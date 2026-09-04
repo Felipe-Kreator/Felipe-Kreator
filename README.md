@@ -65,13 +65,13 @@ Ainda não domino a área, mas venho estudando os fundamentos:
 ### 📫 Contato
 
 <p align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:felipeestudante007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/">
+  <a href="https://www.linkedin.com/in/felipe-carvalho-pereira-191872410/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <a href="https://github.com/Felipe-Kreator">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -79,3 +79,5 @@ Ainda não domino a área, mas venho estudando os fundamentos:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" />
 </p>
+
+'Atualiza README do perfil'
